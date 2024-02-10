@@ -1,0 +1,11 @@
+{
+  "name": "understaning-ts",
+  "version": "1.0.0",
+  "description": "TypeScript Course for Beginners - Learn TypeScript from Scratch! - Academind",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
